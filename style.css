@@ -35,3 +35,9 @@ h1{
     color: rgb(87, 82, 82);
 
 }
+
+#playerWon,#computerWon{
+    color: #e45807;
+    font-size: 25px;
+    margin-top: 20px;
+}
